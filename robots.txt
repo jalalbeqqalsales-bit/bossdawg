@@ -1,0 +1,13 @@
+# robots.txt for https://bossdawgtreeremoval.com
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /login/
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /staging/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://bossdawgtreeremoval.com/sitemap.xml
